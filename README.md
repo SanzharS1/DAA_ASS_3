@@ -647,11 +647,3 @@ Graph_ID,Vertices,Edges,Prim_Cost,Prim_Operations,Prim_Time_ms,Kruskal_Cost,Krus
 **Date:** October 2025
 
 ---
-
-## License
-
-This project is submitted for academic purposes only.
-
----
-
-**End of Report**
